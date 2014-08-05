@@ -1,12 +1,14 @@
 // everything will compile to this file
 
+// test to see if library is loaded
+// if (typeof jQuery != 'undefined') {
 
-if (typeof jQuery != 'undefined') {
+//     alert("jQuery library is loaded!");
 
-    alert("jQuery library is loaded!");
+// }else{
 
-}else{
+//     alert("jQuery library is not found!");
 
-    alert("jQuery library is not found!");
+// }
 
-}
+
